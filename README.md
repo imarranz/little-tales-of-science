@@ -24,12 +24,9 @@ Este repositorio tiene una estructura clara y organizada para facilitar la creac
 - **`comicgen.py`**: El script principal de Python que automatiza el montaje de las viñetas y la generación del PDF.
 - **`README.md`**: Este archivo de documentación.
 - **`LuckiestGuy-Regular.ttf`**: Contiene el tipo de letra **Luckiest Guy** utilizado en los cómics.
-- **``**: Dentro de esta carpeta se encuentran subcarpetas con cada una de las historias o personajes representados en el cómic.
-
-  - **Estructura de cada carpeta de historia o personaje:**
-
-    - **`config.yaml`**: El archivo de configuración que contiene la descripción de las viñetas y los textos que aparecen en el cómic.
-    - **`/images`**: Carpeta que almacena las imágenes generadas por la IA para el cómic.
+- **Estructura de cada carpeta de historia o personaje:**
+  - **`config.yaml`**: El archivo de configuración que contiene la descripción de las viñetas y los textos que aparecen en el cómic.
+  - **`/images`**: Carpeta que almacena las imágenes generadas por la IA para el cómic.
 
 Estructura general del repositorio:
 
@@ -109,11 +106,9 @@ This repository has a clear and organized structure to facilitate the creation o
 - **`comicgen.py`**: The main Python script that automates the assembly of the comic strips and the generation of the PDF.
 - **`README.md`**: This documentation file.
 - **`/font`**: Contains the **Luckiest Guy** font used in the comics.
-- **`/stories`**: Inside this folder, you'll find subfolders for each story or character depicted in the comic.
-
-  - **Structure of each story or character folder:**
-    - **`config.yaml`**: The configuration file that contains the descriptions of the comic strips and the text that appears in the comic.
-    - **`/images`**: Folder that stores the AI-generated images for the comic.
+- **Structure of each story or character folder:**
+  - **`config.yaml`**: The configuration file that contains the descriptions of the comic strips and the text that appears in the comic.
+  - **`/images`**: Folder that stores the AI-generated images for the comic.
 
 Repository structure:
 
