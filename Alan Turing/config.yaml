@@ -1,0 +1,92 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Rompiendo Códigos, Creando Futuro'
+    'Subject': 'El Pionero de la Computación: Cómo Alan Turing Descifró Enigma y Transformó el Mundo'
+    'Keywords': 'Alan Turing, Inteligencia Artificial, Enigma'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Breaking Codes, Creating the Future'
+    'Subject': 'The Pioneer of Computing: How Alan Turing Cracked Enigma and Transformed the World'
+    'Keywords': 'Alan Turing, Artificial Intelligence, Enigma'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 101
+  - 67
+  - 33
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Alan_Turing_01.webp"
+  - "Alan_Turing_02.webp"
+  - "Alan_Turing_03.webp"
+  - "Alan_Turing_04.webp"
+  - "Alan_Turing_05.webp"
+  - "Alan_Turing_06.webp"
+  - "Alan_Turing_07.webp"
+  - "Alan_Turing_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Alan Turing, un matemático y lógico británico, estaba destinado a cambiar el curso de la historia con su mente brillante y su capacidad para resolver problemas complejos."
+    - "En 1939, la Segunda Guerra Mundial desató una lucha devastadora en Europa. Las potencias aliadas necesitaban una ventaja crucial para vencer a las fuerzas del Eje."
+    - "El ejército alemán usaba la máquina Enigma para transmitir mensajes cifrados. Este sistema era tan complejo que se creía irrompible, poniendo a los aliados en una posición de desventaja."
+    - "Alan Turing fue reclutado para trabajar en Bletchley Park, el centro neurálgico de los esfuerzos de descifrado de los aliados. Allí se enfrentaría al mayor reto de su vida: descifrar Enigma."
+    - "Turing diseñó la máquina Bombe, un dispositivo electromecánico que ayudó a automatizar el proceso de descifrado de los códigos de Enigma. Fue un avance crucial en la guerra criptográfica."
+    - "En 1941, el equipo de Turing descifró con éxito los primeros mensajes Enigma, marcando un punto de inflexión en la guerra. A partir de este momento, los aliados tuvieron acceso a información crucial del enemigo."
+    - "El trabajo de Turing y su equipo permitió a los aliados anticipar y frustrar los movimientos de las fuerzas del Eje, salvando miles de vidas y acortando la duración de la guerra."
+    - "A pesar de su trágico final, el trabajo de Turing sentó las bases de la informática moderna. Su legado vive en cada computadora y en cada avance tecnológico que transformó el mundo."
+
+  ENGLISH:
+    - "Alan Turing, a British mathematician and logician, was destined to change the course of history with his brilliant mind and ability to solve complex problems."
+    - "In 1939, World War II unleashed a devastating conflict in Europe. The Allied powers needed a crucial advantage to defeat the Axis forces."
+    - "The German military used the Enigma machine to transmit encrypted messages. This system was so complex it was believed to be unbreakable, putting the Allies at a disadvantage."
+    - "Alan Turing was recruited to work at Bletchley Park, the nerve center of the Allies' decryption efforts. There, he would face the greatest challenge of his life: breaking Enigma."
+    - "Turing designed the Bombe machine, an electromechanical device that helped automate the process of breaking Enigma codes. It was a crucial breakthrough in the cryptographic war."
+    - "In 1941, Turing’s team successfully decoded the first Enigma messages, marking a turning point in the war. From then on, the Allies had access to crucial enemy information."
+    - "Turing’s work and his team allowed the Allies to anticipate and thwart Axis movements, saving thousands of lives and shortening the war’s duration."
+    - "Despite his tragic end, Turing’s work laid the foundations of modern computing. His legacy lives on in every computer and technological advancement that transformed the world."
+
+LINKEDIN:
+    SPANISH: |
+        🌟💻 Rompiendo Códigos: Alan Turing y la Computación que Cambió el Mundo 💻🌟
+
+        Durante la Segunda Guerra Mundial, Alan Turing no solo fue un matemático brillante, sino el hombre que descifró los códigos de Enigma, un avance crucial que permitió a los aliados anticipar los movimientos del enemigo y salvar miles de vidas. Pero su legado no se detiene ahí. Turing sentó las bases de la informática moderna, diseñando la "Máquina de Turing", un concepto que es el corazón de las computadoras de hoy.
+
+        A pesar de los desafíos personales y profesionales que enfrentó, su contribución fue clave para el desarrollo del mundo digital que hoy conocemos. Su visión matemática, su creatividad y su capacidad para resolver problemas complejos hicieron de él una de las mentes más influyentes del siglo XX.
+
+        #PequeñasHistoriasDeTecnología #AlanTuring #Informática #HistoriaDeLaComputación #Innovación
+    ENGLISH: |
+        🌟💻 Breaking Codes: Alan Turing and the Computing that Changed the World 💻🌟
+
+        During World War II, Alan Turing wasn’t just a brilliant mathematician; he was the man who broke the Enigma codes, a crucial breakthrough that allowed the Allies to anticipate enemy moves and save thousands of lives. But his legacy doesn’t stop there. Turing laid the foundations of modern computing by designing the "Turing Machine," a concept that forms the core of today’s computers.
+
+        Despite the personal and professional challenges he faced, his contribution was key to the development of the digital world we now live in. His mathematical insight, creativity, and problem-solving abilities made him one of the most influential minds of the 20th century.
+
+        #LittleTalesOfTechnology #AlanTuring #Computing #HistoryOfComputation #Innovation

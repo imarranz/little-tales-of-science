@@ -1,0 +1,93 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Un Viaje por el Cosmos'
+    'Subject': 'Carl Sagan: Una Vida Dedicada a la Ciencia y a la Divulgación'
+    'Keywords': 'ciencia, ciencia del espacio, astronomía, Carl Sagan, cosmos, divulgación científica, exploración espacial, universo, historia de la ciencia, astrofísica, curiosidad científica, ciencia y educación'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'A Journey Through the Cosmos'
+    'Subject': 'Carl Sagan: A Life Dedicated to Science and Communication'
+    'Keywords': 'science, space science, astronomy, Carl Sagan, cosmos, science communication, space exploration, universe, history of science, astrophysics, scientific curiosity, science and education'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 54
+  - 94
+  - 101
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Carl_Sagan_01.webp"
+  - "Carl_Sagan_02.webp"
+  - "Carl_Sagan_03.webp"
+  - "Carl_Sagan_04.webp"
+  - "Carl_Sagan_05.webp"
+  - "Carl_Sagan_06.webp"
+  - "Carl_Sagan_07.webp"
+  - "Carl_Sagan_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Desde pequeño, Carl Sagan sintió una gran curiosidad por el universo."
+    - "Como estudiante, Sagan se sumergió en el estudio de las estrellas y la ciencia."
+    - "Sagan realizó investigaciones innovadoras sobre la atmósfera de Venus y las posibilidades de vida en otros planetas."
+    - "Como asesor de la NASA, Sagan fue fundamental en la misión de la sonda Voyager y sus mensajes a las estrellas."
+    - "Sagan acercó el universo al público con su carisma y pasión por la divulgación."
+    - "Con la serie 'Cosmos', Sagan inspiró a millones a mirar al cielo y preguntarse sobre nuestro lugar en el universo."
+    - "Sagan nos hizo reflexionar sobre la fragilidad y belleza de nuestro planeta, un 'punto azul pálido' en el vasto cosmos."
+    - "El legado de Carl Sagan sigue vivo, inspirando a nuevas generaciones a explorar y comprender el universo."
+
+  ENGLISH:
+    - "From a young age, Carl Sagan felt a deep curiosity about the universe."
+    - "As a student, Sagan immersed himself in the study of stars and science."
+    - "Sagan conducted groundbreaking research on Venus' atmosphere and the possibilities of life on other planets."
+    - "As a NASA advisor, Sagan was instrumental in the Voyager mission and its messages to the stars."
+    - "Sagan brought the universe closer to the public with his charisma and passion for science communication."
+    - "With the series 'Cosmos', Sagan inspired millions to look up at the sky and wonder about our place in the universe."
+    - "Sagan made us reflect on the fragility and beauty of our planet, a 'pale blue dot' in the vast cosmos."
+    - "Carl Sagan's legacy lives on, inspiring new generations to explore and understand the universe."
+
+LINKEDIN:
+  SPANISH: |
+    ✨🌌 **Carl Sagan: Una Vida Dedicada al Universo y a la Divulgación Científica** 🌌✨
+
+    Carl Sagan fue más que un astrónomo; fue un explorador del cosmos y un apasionado comunicador de la ciencia. Desde joven, su amor por el universo lo llevó a realizar descubrimientos cruciales y a participar en misiones espaciales como la de la sonda Voyager.
+
+    Pero quizá su mayor contribución fue su capacidad de acercar la ciencia a millones de personas a través de la serie 'Cosmos' y sus reflexiones sobre la fragilidad de nuestro planeta, el "punto azul pálido". Su legado sigue inspirando a nuevas generaciones a mirar hacia las estrellas y cuestionarse sobre nuestro lugar en el universo.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #CarlSagan #Cosmos #DivulgaciónCientífica #Ciencia #Astronomía #ExploraciónEspacial
+
+  ENGLISH: |
+    ✨🌌 **Carl Sagan: A Life Dedicated to the Universe and Science Communication** 🌌✨
+
+    Carl Sagan was more than an astronomer; he was a cosmic explorer and a passionate science communicator. From a young age, his love for the universe led him to make critical discoveries and participate in space missions like the Voyager probe.
+
+    But perhaps his greatest contribution was his ability to bring science closer to millions through the series 'Cosmos' and his reflections on the fragility of our planet, the "pale blue dot." His legacy continues to inspire new generations to look up to the stars and question our place in the universe.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #CarlSagan #Cosmos #ScienceCommunication #Science #Astronomy #SpaceExploration
+
+

@@ -1,0 +1,106 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'El Experimento del Té'
+    'Subject': 'Estadística en una Taza: El Experimento de la Catadora de Té'
+    'Keywords': 'Ronald Fisher'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Lady Tasting Tea Experiment'
+    'Subject': 'Statistics in a Cup: The Lady Tasting Tea Experiment'
+    'Keywords': 'Ronald Fisher'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 0
+  - 32
+  - 96
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Ronald_Fisher_01.webp"
+  - "Ronald_Fisher_02.webp"
+  - "Ronald_Fisher_03.webp"
+  - "Ronald_Fisher_04.webp"
+  - "Ronald_Fisher_05.webp"
+  - "Ronald_Fisher_06.webp"
+  - "Ronald_Fisher_07.webp"
+  - "Ronald_Fisher_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Ronald Fisher, estadístico, considera cómo demostrar métodos experimentales efectivos."
+    - "Dra. Bristol afirma: 'Puedo saber si la leche fue añadida antes o después del té.'"
+    - "Fisher diseña un experimento: 8 tazas de té, 4 de cada tipo, en orden aleatorio."
+    - "El experimento comienza: la preparación es clave."
+    - "Dra. Bristol prueba cuidadosamente cada taza."
+    - "Dra. Bristol registra sus respuestas, seguro de cada elección."
+    - "Resultados: ¡Bristol acierta en todas! El diseño experimental funciona."
+    - "Fisher demuestra la importancia de un diseño experimental cuidadoso."
+
+
+  ENGLISH:
+    - "Ronald Fisher, statistician, considers how to demonstrate effective experimental methods."
+    - "Dr. Bristol claims: 'I can tell if the milk was added before or after the tea.'"
+    - "Fisher designs an experiment: 8 cups of tea, 4 of each type, in random order."
+    - "The experiment begins: preparation is key."
+    - "Dr. Bristol carefully tests each cup."
+    - "Dr. Bristol records her answers, confident in each choice."
+    - "Results: Bristol is correct in all! The experimental design works."
+    - "Fisher demonstrates the importance of careful experimental design."
+
+LINKEDIN:
+    SPANISH: |
+        🍵✨ **Estadística en una Taza: El Experimento de la Catadora de Té ** ✨🍵
+
+        En la década de 1920, el biólogo y estadístico Ronald Fisher diseñó un experimento para demostrar un principio fundamental en el diseño de experimentos. ¿Podría alguien realmente distinguir si la leche se añadió antes o después del té simplemente por el sabor?
+
+        Fisher se encontró con la Dra. Muriel Bristol, una bióloga que afirmaba poder detectar la diferencia. Para poner a prueba su afirmación, diseñó un experimento simple pero elegante: preparó 8 tazas de té, cuatro con leche antes del té y cuatro al revés, y pidió a la Dra. Bristol que identificara cuáles eran cuáles.
+
+        Esta historia es verdadera, y este experimento aleatorizado se realizó realmente. Fue diseñado por el biólogo y estadístico Ronald Fisher (1890-1962) y lo presentó bajo el nombre de *The lady tasting tea –la catadora de té–* en su libro *The Design of Experiments* (1935).
+
+        El resultado fue asombroso: la Dra. Bristol identificó correctamente cada taza, demostrando no solo su habilidad sensorial sino también la utilidad del diseño experimental de Fisher.
+
+        Este experimento no solo es un excelente ejemplo de cómo se pueden utilizar métodos científicos para responder preguntas aparentemente subjetivas, sino que también establece un precedente para el uso de pruebas aleatorizadas en el diseño de experimentos. ¡Un momento histórico en la ciencia estadística!
+
+        #PequeñasHistoriasDeEstadística #Estadística #DiseñoExperimental #CienciaDeDatos #HistoriaDeLaCiencia #RonaldFisher #InnovaciónCientífica #Experimentación #EducaciónEnEstadística
+    ENGLISH: |
+        🍵✨ **Statistics in a Cup: The Lady Tasting Tea Experiment** ✨🍵
+
+        In the 1920s, biologist and statistician Ronald Fisher designed an experiment to demonstrate a fundamental principle in experimental design. Could someone really tell whether milk was added before or after the tea just by taste?
+
+        Fisher met Dr. Muriel Bristol, a biologist who claimed she could discern the difference. To test her claim, he devised a simple yet elegant experiment: he prepared 8 cups of tea, four with milk before the tea and four the reverse, and asked Dr. Bristol to identify which were which.
+
+        This story is true, and this randomized experiment was actually conducted. It was designed by biologist and statistician Ronald Fisher (1890-1962) and presented under the name *The lady tasting tea* in his book *The Design of Experiments* (1935).
+
+        The result was astonishing: Dr. Bristol correctly identified each cup, demonstrating not only her sensory skill but also the utility of Fisher's experimental design.
+
+        This experiment is not only a great example of how scientific methods can be used to answer seemingly subjective questions but also sets a precedent for the use of randomized tests in experimental design. A historic moment in statistical science!
+
+        #LittleTalesOfStatistics #Statistics #ExperimentalDesign #DataScience #HistoryOfScience #RonaldFisher #ScientificInnovation #Experimentation #StatisticsEducation
+

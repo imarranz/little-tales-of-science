@@ -1,0 +1,100 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Luz sobre la Ciencia'
+    'Subject': 'Michael Faraday: El Arquitecto del Electromagnetismo y su Legado'
+    'Keywords': 'electricidad, magnetismo, experimentos, ciencia, Michael Faraday, inducción electromagnética, jaula de Faraday, campos magnéticos, historia de la ciencia, innovaciones científicas, legado científico, Royal Institution, descubrimientos científicos'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Light on Science'
+    'Subject': 'Michael Faraday: The Architect of Electromagnetism and His Legacy'
+    'Keywords': 'electricity, magnetism, experiments, science, Michael Faraday, electromagnetic induction, Faraday cage, magnetic fields, history of science, scientific innovations, scientific legacy, Royal Institution, scientific discoveries'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 128
+  - 98
+  - 69
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Michael_Faraday_01.webp"
+  - "Michael_Faraday_02.webp"
+  - "Michael_Faraday_03.webp"
+  - "Michael_Faraday_04.webp"
+  - "Michael_Faraday_05.webp"
+  - "Michael_Faraday_06.webp"
+  - "Michael_Faraday_07.webp"
+  - "Michael_Faraday_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Michael Faraday contempla el potencial de los metales para conducir electricidad."
+    - "La chispa de la genialidad: Faraday y la inducción electromagnética."
+    - "Faraday en la Royal Institution, educando a futuras generaciones."
+    - "Construyendo barreras: la creación de la jaula de Faraday."
+    - "Explorando el invisible mundo del magnetismo."
+    - "El reconocimiento de un héroe científico."
+    - "Reflexiones de un vida dedicada a la ciencia."
+    - "El legado duradero de Michael Faraday en la ciencia moderna."
+
+  ENGLISH:
+    - "Michael Faraday contemplates the potential of metals to conduct electricity."
+    - "The spark of genius: Faraday and electromagnetic induction."
+    - "Faraday at the Royal Institution, educating future generations."
+    - "Building barriers: the creation of the Faraday cage."
+    - "Exploring the invisible world of magnetism."
+    - "Recognition of a scientific hero."
+    - "Reflections of a life dedicated to science."
+    - "The enduring legacy of Michael Faraday in modern science."
+
+LINKEDIN:
+    SPANISH: |
+        🔍 Michael Faraday: Un Pionero del Electromagnetismo 🔍
+
+        🌟 Dentro de nuestra serie "Pequeñas Historias de Ciencia", hoy queremos presentar a Michael Faraday, una figura clave en la comprensión y el desarrollo del electromagnetismo. Su curiosidad insaciable y su enfoque práctico le permitieron descubrir los principios fundamentales de la electricidad y el magnetismo, que han moldeado innumerables avances tecnológicos hasta el día de hoy.
+
+        👨‍🔬 Michael Faraday, quien comenzó su carrera como asistente de laboratorio, eventualmente se convirtió en un científico de renombre gracias a sus investigaciones revolucionarias. Inventó la jaula de Faraday, demostró la inducción electromagnética, y sentó las bases para la tecnología de motores eléctricos.
+
+        📚 Su compromiso con la educación pública y la divulgación científica, especialmente a través de sus conferencias en la Royal Institution, lo convierte en un modelo a seguir para todos los científicos y educadores. Michael Faraday creía firmemente que el conocimiento debería ser accesible para todos, una visión que compartimos apasionadamente.
+
+        💡 Un cómic por la vida y obra de Faraday, y descubre cómo sus descubrimientos siguen iluminando nuestro mundo moderno.
+
+        #PequeñasHistoriasDeCiencia #MichaelFaraday #Electromagnetismo #Ciencia #Educación
+    ENGLISH: |
+        🔍 Michael Faraday: A Pioneer of Electromagnetism 🔍
+
+        🌟 In our "Little Tales of Science" series, we're excited to spotlight Michael Faraday, a pivotal figure in the understanding and development of electromagnetism. His relentless curiosity and hands-on approach led to foundational discoveries in electricity and magnetism, shaping countless technological advancements to this day.
+
+        👨‍🔬 Starting his career as a lab assistant, Faraday eventually rose to become a renowned scientist through his groundbreaking research. He invented the Faraday cage, demonstrated electromagnetic induction, and laid the groundwork for electric motor technology.
+
+        📚 His commitment to public education and scientific outreach, especially through his lectures at the Royal Institution, makes him a role model for scientists and educators alike. Faraday firmly believed that knowledge should be accessible to all, a vision we passionately share.
+
+        💡 Join us on this fascinating journey through Faraday's life and work, and discover how his discoveries continue to light up our modern world.
+
+        #LittleTalesOfScience #MichaelFaraday #Electromagnetism #Science #Education

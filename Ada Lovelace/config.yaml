@@ -1,0 +1,100 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Luz sobre la Ciencia'
+    'Subject': 'Michael Faraday: El Arquitecto del Electromagnetismo y su Legado'
+    'Keywords': 'electricidad, magnetismo, experimentos, ciencia, Michael Faraday, inducción electromagnética, jaula de Faraday, campos magnéticos, historia de la ciencia, innovaciones científicas, legado científico, Royal Institution, descubrimientos científicos'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Light on Science'
+    'Subject': 'Michael Faraday: The Architect of Electromagnetism and His Legacy'
+    'Keywords': 'electricity, magnetism, experiments, science, Michael Faraday, electromagnetic induction, Faraday cage, magnetic fields, history of science, scientific innovations, scientific legacy, Royal Institution, scientific discoveries'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 128
+  - 98
+  - 69
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Ada_Lovelace_01.webp"
+  - "Ada_Lovelace_02.webp"
+  - "Ada_Lovelace_03.webp"
+  - "Ada_Lovelace_04.webp"
+  - "Ada_Lovelace_05.webp"
+  - "Ada_Lovelace_06.webp"
+  - "Ada_Lovelace_07.webp"
+  - "Ada_Lovelace_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "En un elegante salón de la Inglaterra victoriana, Ada Lovelace es presentada a Charles Babbage. Fascinada, Ada observa el modelo de la Máquina Diferencial que Babbage ha comenzado a desarrollar, marcando el inicio de una colaboración histórica."
+    - "Rodeada de libros y documentos, Ada Lovelace se sumerge en el estudio de los planos de la Máquina Analítica. Su mente analítica y curiosa busca entender y expandir las posibilidades de esta revolucionaria tecnología."
+    - "En una animada discusión con Charles Babbage, Ada Lovelace señala detalles y propone mejoras para la Máquina Analítica. Juntos exploran el potencial de la máquina para realizar cálculos complejos y tareas más allá de la simple aritmética."
+    - "Bajo la tenue luz de una vela, Ada Lovelace redacta meticulosamente sus notas, estableciendo las bases teóricas de lo que se convertiría en la programación. Cada palabra refleja su visión de un futuro donde las máquinas expanden las capacidades humanas."
+    - "Con confianza y elocuencia, Ada Lovelace presenta sus ideas sobre la Máquina Analítica a un grupo de los más distinguidos científicos y matemáticos de la época. Su presentación destila claridad y visión de futuro, captando la atención de todos."
+    - "Ada Lovelace enfrenta el escepticismo de algunos de sus contemporáneos con argumentos sólidos y una firme defensa de sus teorías sobre la Máquina Analítica. Su determinación y conocimiento evidencian su papel crucial en la historia de la ciencia."
+    - "Concentrada en su trabajo, Ada Lovelace perfecciona los algoritmos necesarios para operar la Máquina Analítica. Su habilidad para conceptualizar programas complejos prefigura el moderno software de computación."
+    - "La influencia de Ada Lovelace trasciende el tiempo; su visión pionera de la computación es reconocida y celebrada en un contexto moderno, resaltando su legado como una de las primeras programadoras de la historia."
+  ENGLISH:
+    - "In an elegant Victorian salon in England, Ada Lovelace is introduced to Charles Babbage. Fascinated, Ada observes the model of the Difference Engine that Babbage has begun to develop, marking the start of a historic collaboration."
+    - "Surrounded by books and papers, Ada Lovelace immerses herself in studying the plans of the Analytical Engine. Her analytical and curious mind seeks to understand and expand the possibilities of this revolutionary technology."
+    - "In an animated discussion with Charles Babbage, Ada Lovelace points out details and proposes improvements for the Analytical Engine. Together, they explore the machine's potential to perform complex calculations and tasks beyond mere arithmetic."
+    - "Under the dim light of a candle, Ada Lovelace meticulously drafts her notes, establishing the theoretical foundations of what would become programming. Each word reflects her vision of a future where machines extend human capabilities."
+    - "With confidence and eloquence, Ada Lovelace presents her ideas on the Analytical Engine to a group of the era's most distinguished scientists and mathematicians. Her presentation exudes clarity and foresight, capturing everyone's attention."
+    - "Ada Lovelace counters the skepticism of some of her contemporaries with strong arguments and a firm defense of her theories on the Analytical Engine. Her determination and knowledge showcase her crucial role in the history of science."
+    - "Focused on her work, Ada Lovelace perfects the algorithms necessary to operate the Analytical Engine. Her ability to conceptualize complex programs prefigures modern computer software."
+    - "Ada Lovelace's influence transcends time; her pioneering vision of computing is recognized and celebrated in a modern context, highlighting her legacy as one of the first programmers in history."
+
+
+LINKEDIN:
+    SPANISH: |
+        🔍 Michael Faraday: Un Pionero del Electromagnetismo 🔍
+
+        🌟 Dentro de nuestra serie "Pequeñas Historias de Ciencia", hoy queremos presentar a Michael Faraday, una figura clave en la comprensión y el desarrollo del electromagnetismo. Su curiosidad insaciable y su enfoque práctico le permitieron descubrir los principios fundamentales de la electricidad y el magnetismo, que han moldeado innumerables avances tecnológicos hasta el día de hoy.
+
+        👨‍🔬 Michael Faraday, quien comenzó su carrera como asistente de laboratorio, eventualmente se convirtió en un científico de renombre gracias a sus investigaciones revolucionarias. Inventó la jaula de Faraday, demostró la inducción electromagnética, y sentó las bases para la tecnología de motores eléctricos.
+
+        📚 Su compromiso con la educación pública y la divulgación científica, especialmente a través de sus conferencias en la Royal Institution, lo convierte en un modelo a seguir para todos los científicos y educadores. Michael Faraday creía firmemente que el conocimiento debería ser accesible para todos, una visión que compartimos apasionadamente.
+
+        💡 Un cómic por la vida y obra de Faraday, y descubre cómo sus descubrimientos siguen iluminando nuestro mundo moderno.
+
+        #PequeñasHistoriasDeCiencia #MichaelFaraday #Electromagnetismo #Ciencia #Educación
+    ENGLISH: |
+        🔍 Michael Faraday: A Pioneer of Electromagnetism 🔍
+
+        🌟 In our "Little Tales of Science" series, we're excited to spotlight Michael Faraday, a pivotal figure in the understanding and development of electromagnetism. His relentless curiosity and hands-on approach led to foundational discoveries in electricity and magnetism, shaping countless technological advancements to this day.
+
+        👨‍🔬 Starting his career as a lab assistant, Faraday eventually rose to become a renowned scientist through his groundbreaking research. He invented the Faraday cage, demonstrated electromagnetic induction, and laid the groundwork for electric motor technology.
+
+        📚 His commitment to public education and scientific outreach, especially through his lectures at the Royal Institution, makes him a role model for scientists and educators alike. Faraday firmly believed that knowledge should be accessible to all, a vision we passionately share.
+
+        💡 Join us on this fascinating journey through Faraday's life and work, and discover how his discoveries continue to light up our modern world.
+
+        #LittleTalesOfScience #MichaelFaraday #Electromagnetism #Science #Education

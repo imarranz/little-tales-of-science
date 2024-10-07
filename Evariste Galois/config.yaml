@@ -1,0 +1,96 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Teoría y Duelo'
+    'Subject': 'Évariste Galois: Fundamentos de la Teoría de Grupos y su Trágico Duelo'
+    'Keywords': 'Évariste Galois, teoría de grupos, matemáticas, álgebra, siglo XIX, Francia, historia de las matemáticas, innovación matemática, legado, ciencia, genio, revolución matemática'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Theory and Duel'
+    'Subject': 'Évariste Galois: Foundations of Group Theory and His Tragic Duel'
+    'Keywords': 'Évariste Galois, group theory, mathematics, algebra, 19th century, France, history of mathematics, mathematical innovation, legacy, science, genius, mathematical revolution'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 101
+  - 67
+  - 33
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Evariste_Galois_01.webp"
+  - "Evariste_Galois_02.webp"
+  - "Evariste_Galois_03.webp"
+  - "Evariste_Galois_04.webp"
+  - "Evariste_Galois_05.webp"
+  - "Evariste_Galois_06.webp"
+  - "Evariste_Galois_07.webp"
+  - "Evariste_Galois_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Évariste Galois, un genio precoz, dedicaba sus días a explorar los misterios de las matemáticas."
+    - "Sus teorías sobre la estructura de los grupos sentaron las bases de la matemática moderna."
+    - "Su fervor por las matemáticas generó controversia entre sus contemporáneos."
+    - "En sus últimas horas, Galois escribió frenéticamente sus contribuciones más revolucionarias."
+    - "Galois, atrapado en un conflicto, se enfrentó a un duelo fatal."
+    - "Herido de muerte, Galois caía dejando un legado inconmensurable para las matemáticas."
+    - "Sus escritos, rescatados tras su muerte, revelaron ideas que revolucionaron la matemática."
+    - "Las ideas de Galois brillan aún, inspirando generaciones de matemáticos."
+
+  ENGLISH:
+    - "Évariste Galois, a precocious genius, spent his days exploring the mysteries of mathematics."
+    - "His theories on the structure of groups laid the foundation of modern mathematics."
+    - "His fervor for mathematics sparked controversy among his contemporaries."
+    - "In his final hours, Galois frantically wrote down his most revolutionary contributions."
+    - "Galois, caught in a conflict, faced a fatal duel."
+    - "Mortally wounded, Galois fell, leaving an immeasurable legacy for mathematics."
+    - "His writings, recovered after his death, revealed ideas that revolutionized mathematics."
+    - "Galois' ideas still shine, inspiring generations of mathematicians."
+
+LINKEDIN:
+  SPANISH: |
+    ✨📚 **Évariste Galois: La Breve Vida que Cambió las Matemáticas** 📚✨
+
+    Évariste Galois, un joven prodigio de las matemáticas, dedicó sus cortos años a explorar los misterios del álgebra y a sentar las bases de la teoría de grupos. Con una pasión intensa, Galois desafió las ideas de su tiempo y escribió frenéticamente sus últimas contribuciones antes de enfrentarse a un trágico duelo.
+
+    Aunque falleció a los 20 años, sus escritos sobrevivieron y revolucionaron el mundo de las matemáticas. Sus ideas no solo inspiraron a generaciones de matemáticos, sino que también establecieron los fundamentos para futuras investigaciones en diversos campos.
+
+    Su historia es un recordatorio de cómo la genialidad y la dedicación pueden trascender incluso las vidas más breves, dejando un legado que brilla a través de los siglos.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #TeoríaDeGrupos #HistoriaDeLasMatemáticas #ÉvaristeGalois #Ciencia #InnovaciónMatemática
+
+  ENGLISH: |
+    ✨📚 **Évariste Galois: The Brief Life that Changed Mathematics** 📚✨
+
+    Évariste Galois, a young mathematics prodigy, dedicated his short years to exploring the mysteries of algebra and laying the foundations of group theory. With intense passion, Galois challenged the ideas of his time and frantically wrote down his final contributions before facing a tragic duel.
+
+    Although he died at the age of 20, his writings survived and revolutionized the world of mathematics. His ideas not only inspired generations of mathematicians but also laid the groundwork for future research in various fields.
+
+    His story is a reminder of how brilliance and dedication can transcend even the shortest lives, leaving a legacy that shines through the centuries.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #GroupTheory #HistoryOfMathematics #ÉvaristeGalois #Science #MathematicalInnovation
+

@@ -1,0 +1,94 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Salvando Vidas con la Estadística'
+    'Subject': 'La Dama de la Lámpara: Cómo las Estadísticas Revolucionaron la Enfermería'
+    'Keywords': 'Florence Nightingale'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Saving Lives with Statistics'
+    'Subject': 'The Lady with the Lamp: How Statistics Revolutionized Nursing'
+    'Keywords': 'Florence Nightingale'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 85
+  - 53
+  - 30
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Florence_Nightingale_01.webp"
+  - "Florence_Nightingale_02.webp"
+  - "Florence_Nightingale_03.webp"
+  - "Florence_Nightingale_04.webp"
+  - "Florence_Nightingale_05.webp"
+  - "Florence_Nightingale_06.webp"
+  - "Florence_Nightingale_07.webp"
+  - "Florence_Nightingale_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "En 1854, Florence Nightingale, una joven enfermera apasionada por salvar vidas, recibe una llamada urgente: ayudar a los soldados británicos heridos en la Guerra de Crimea."
+    - "¿Cómo puede alguien sobrevivir en estas condiciones? Es el caos… y los soldados están muriendo no solo por sus heridas, sino por las infecciones."
+    - "Florence, conocida como ‘la dama de la lámpara’, se encargaba de cuidar a los soldados heridos, pero sabía que algo más debía cambiar para salvar vidas."
+    - "Los números no mienten. El verdadero enemigo aquí no son las balas, sino las infecciones causadas por las malas condiciones sanitarias."
+    - "Este gráfico muestra que, con mejores condiciones sanitarias, podemos reducir drásticamente la mortalidad. ¡Debemos actuar ahora!"
+    - "Gracias a las estadísticas de Florence, el hospital implementó mejoras sanitarias que cambiaron el destino de cientos de vidas."
+    - "Los números hablan por sí mismos. Hemos reducido la mortalidad de un 42% a un 2%. Las estadísticas salvaron vidas."
+    - "Florence Nightingale no solo cambió la enfermería, sino que también demostró que las estadísticas podían ser una herramienta poderosa para salvar vidas. Su legado vive en cada hospital moderno."
+
+
+  ENGLISH:
+    - "In 1854, Florence Nightingale, a young nurse passionate about saving lives, receives an urgent call: to help British soldiers wounded in the Crimean War."
+    - "How can anyone survive in these conditions? It's chaos... and soldiers are dying not just from their wounds, but from infections."
+    - "Florence, known as 'The Lady with the Lamp,' cared for the wounded soldiers, but she knew something else needed to change to save lives."
+    - "The numbers don't lie. The real enemy here isn't the bullets, it's the infections caused by poor sanitary conditions."
+    - "This chart shows that with better sanitary conditions, we can drastically reduce mortality. We must act now!"
+    - "Thanks to Florence's statistics, the hospital implemented sanitary improvements that changed the fate of hundreds of lives."
+    - "The numbers speak for themselves. We've reduced mortality from 42% to 2%. Statistics saved lives."
+    - "Florence Nightingale not only changed nursing, but also proved that statistics could be a powerful tool to save lives. Her legacy lives on in every modern hospital."
+
+
+LINKEDIN:
+    SPANISH: |
+        🌟📊 **Innovación en la Enfermería: Florence Nightingale y las Estadísticas que Salvaron Vidas** 📊🌟
+
+        En 1854, durante la Guerra de Crimea, Florence Nightingale revolucionó la enfermería y el cuidado de los soldados heridos, no solo a través de su dedicación personal, sino también con el uso pionero de estadísticas. Al llegar a los hospitales militares, se encontró con condiciones deplorables y una alta tasa de mortalidad, pero Nightingale no solo actuó como enfermera. Con sus gráficos de área polar, demostró que las infecciones, no las heridas, eran las mayores causas de muerte, lo que llevó a implementar mejoras sanitarias que redujeron la mortalidad drásticamente.
+
+        Su trabajo no solo cambió la forma en que se cuidaba a los soldados durante la guerra, sino que transformó la enfermería y la salud pública para siempre, demostrando el poder de las estadísticas para salvar vidas.
+
+        #PequeñasHistoriasDeEstadística #FlorenceNightingale #Estadísticas #SaludPública #HistoriaDeLaMedicina
+    ENGLISH: |
+        🌟📊 **Nursing Innovation: Florence Nightingale and the Statistics That Saved Lives** 📊🌟
+
+        In 1854, during the Crimean War, Florence Nightingale revolutionized nursing and the care of wounded soldiers, not only through her personal dedication but also with her pioneering use of statistics. Upon arriving at military hospitals, she encountered horrific conditions and a high mortality rate, but Nightingale didn’t just nurse. Using her polar area charts, she demonstrated that infections, not wounds, were the main causes of death, leading to sanitation improvements that drastically reduced mortality.
+
+        Her work not only changed how soldiers were cared for during the war but also transformed nursing and public health forever, proving the power of statistics to save lives.
+
+        #LittleTalesOfStatistics #FlorenceNightingale #Statistics #PublicHealth #HistoryOfMedicine

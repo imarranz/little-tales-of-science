@@ -1,0 +1,101 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Gregor Mendel y sus Guisantes'
+    'Subject': 'Experimentos con Guisantes: La Historia de Gregor Mendel y el Origen de la Genética'
+    'Keywords': 'electricidad, magnetismo, experimentos, ciencia, Michael Faraday, inducción electromagnética, jaula de Faraday, campos magnéticos, historia de la ciencia, innovaciones científicas, legado científico, Royal Institution, descubrimientos científicos'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Gregor Mendel and His Peas'
+    'Subject': 'Experiments with Peas: The Story of Gregor Mendel and the Origin of Genetics'
+    'Keywords': 'electricity, magnetism, experiments, science, Michael Faraday, electromagnetic induction, Faraday cage, magnetic fields, history of science, scientific innovations, scientific legacy, Royal Institution, scientific discoveries'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 85
+  - 107
+  - 47
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Gregor_Mendel_01.webp"
+  - "Gregor_Mendel_02.webp"
+  - "Gregor_Mendel_03.webp"
+  - "Gregor_Mendel_04.webp"
+  - "Gregor_Mendel_05.webp"
+  - "Gregor_Mendel_06.webp"
+  - "Gregor_Mendel_07.webp"
+  - "Gregor_Mendel_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+TEXTS:
+  SPANISH:
+    - "Gregor Mendel observa con atención cada detalle de sus plantas de guisantes, buscando patrones en sus características."
+    - "Con paciencia y meticulosidad, Mendel cruza distintas variedades de guisantes, buscando comprender cómo se transmiten sus características."
+    - "Cada polinización es un paso hacia descubrir los secretos de la herencia."
+    - "Las notas de Mendel empiezan a mostrar patrones matemáticos: la base de las leyes de la herencia."
+    - "Aunque sus colegas escuchan con interés, muchos no comprenden el impacto de los descubrimientos de Mendel."
+    - "Las variedades de guisantes muestran cómo los rasgos se combinan y se transmiten de una generación a otra."
+    - "Mendel recopila años de observaciones y experimentos, dando forma a una teoría revolucionaria."
+    - "Aunque sus descubrimientos pasarán desapercibidos en vida, el legado de Mendel cambiará para siempre la biología."
+
+  ENGLISH:
+    - "Gregor Mendel carefully observes every detail of his pea plants, looking for patterns in their traits."
+    - "With patience and precision, Mendel crossbreeds different varieties of peas, seeking to understand how their traits are passed on."
+    - "Each pollination is a step toward uncovering the secrets of inheritance."
+    - "Mendel's notes begin to reveal mathematical patterns: the foundation of the laws of inheritance."
+    - "Though his colleagues listen with interest, many fail to grasp the significance of Mendel's discoveries."
+    - "The varieties of peas demonstrate how traits combine and are passed from one generation to the next."
+    - "Mendel compiles years of observations and experiments, shaping a revolutionary theory."
+    - "Though his discoveries will go unnoticed in his lifetime, Mendel's legacy will forever change biology."
+
+
+
+LINKEDIN:
+    SPANISH: |
+        🔍 Michael Faraday: Un Pionero del Electromagnetismo 🔍
+
+        🌟 Dentro de nuestra serie "Pequeñas Historias de Ciencia", hoy queremos presentar a Michael Faraday, una figura clave en la comprensión y el desarrollo del electromagnetismo. Su curiosidad insaciable y su enfoque práctico le permitieron descubrir los principios fundamentales de la electricidad y el magnetismo, que han moldeado innumerables avances tecnológicos hasta el día de hoy.
+
+        👨‍🔬 Michael Faraday, quien comenzó su carrera como asistente de laboratorio, eventualmente se convirtió en un científico de renombre gracias a sus investigaciones revolucionarias. Inventó la jaula de Faraday, demostró la inducción electromagnética, y sentó las bases para la tecnología de motores eléctricos.
+
+        📚 Su compromiso con la educación pública y la divulgación científica, especialmente a través de sus conferencias en la Royal Institution, lo convierte en un modelo a seguir para todos los científicos y educadores. Michael Faraday creía firmemente que el conocimiento debería ser accesible para todos, una visión que compartimos apasionadamente.
+
+        💡 Un cómic por la vida y obra de Faraday, y descubre cómo sus descubrimientos siguen iluminando nuestro mundo moderno.
+
+        #PequeñasHistoriasDeCiencia #MichaelFaraday #Electromagnetismo #Ciencia #Educación
+    ENGLISH: |
+        🔍 Michael Faraday: A Pioneer of Electromagnetism 🔍
+
+        🌟 In our "Little Tales of Science" series, we're excited to spotlight Michael Faraday, a pivotal figure in the understanding and development of electromagnetism. His relentless curiosity and hands-on approach led to foundational discoveries in electricity and magnetism, shaping countless technological advancements to this day.
+
+        👨‍🔬 Starting his career as a lab assistant, Faraday eventually rose to become a renowned scientist through his groundbreaking research. He invented the Faraday cage, demonstrated electromagnetic induction, and laid the groundwork for electric motor technology.
+
+        📚 His commitment to public education and scientific outreach, especially through his lectures at the Royal Institution, makes him a role model for scientists and educators alike. Faraday firmly believed that knowledge should be accessible to all, a vision we passionately share.
+
+        💡 Join us on this fascinating journey through Faraday's life and work, and discover how his discoveries continue to light up our modern world.
+
+        #LittleTalesOfScience #MichaelFaraday #Electromagnetism #Science #Education

@@ -1,0 +1,94 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Epidemia de Cólera en Londres'
+    'Subject': 'Epidemia de Cólera en Londres'
+    'Keywords': 'John Snow'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Cholera Epidemic in London'
+    'Subject': 'Cholera Epidemic in London'
+    'Keywords': 'John Snow'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 79
+  - 79
+  - 79
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "John_Snow_01.webp"
+  - "John_Snow_02.webp"
+  - "John_Snow_03.webp"
+  - "John_Snow_04.webp"
+  - "John_Snow_05.webp"
+  - "John_Snow_06.webp"
+  - "John_Snow_07.webp"
+  - "John_Snow_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "John Snow, el precursor de la epidemiología moderna, en su estudio."
+    - "Escena de la calle londinense de 1850, vibrante y llena de vida cotidiana."
+    - "Londres enfrenta un grave brote de cólera, mostrando la urgencia y el desafío."
+    - "John Snow investiga el brote, observando meticulosamente las condiciones."
+    - "Snow marca un mapa del cólera, utilizando datos para buscar patrones."
+    - "La bomba de agua de Broad Street identificada como la fuente del cólera."
+    - "Snow remueve la manija de la bomba, una decisión crucial para detener el brote."
+    - "El legado de Snow altera permanentemente la salud pública y la epidemiología."
+
+
+  ENGLISH:
+    - "John Snow, the forerunner of modern epidemiology, in his study."
+    - "A bustling 1850 London street scene, vibrant with everyday life."
+    - "London faces a severe cholera outbreak, showcasing the urgency and challenge."
+    - "John Snow investigates the outbreak, meticulously observing the conditions."
+    - "Snow marks a cholera map, using data to search for patterns."
+    - "The Broad Street water pump identified as the source of cholera."
+    - "Snow removes the pump handle, a crucial decision to stop the outbreak."
+    - "Snow's legacy permanently alters public health and epidemiology."
+
+LINKEDIN:
+    SPANISH: |
+        🔍🌍 Innovación en la Salud Pública: John Snow y la Epidemia de Cólera 🌍🔍
+
+        En 1854, Londres fue azotada por una devastadora epidemia de cólera. John Snow, considerado el padre de la epidemiología moderna, realizó un trabajo pionero que cambió nuestra comprensión de las enfermedades transmisibles. Mediante la meticulosa recolección de datos y el análisis de patrones de enfermedad, Snow identificó una bomba de agua en Broad Street como la fuente del brote. Su decisión de remover la manija de esta bomba se considera uno de los primeros ejemplos de intervención epidemiológica. El trabajo de Snow no solo ayudó a terminar con el brote, sino que también impulsó mejoras en los sistemas de agua potable, salvando innumerables vidas en el futuro.
+
+        Esta historia no solo demuestra la importancia de la observación y el análisis estadístico en la salud pública, sino que también destaca el impacto duradero que una persona puede tener en la salud global.
+
+        #PequeñasHistoriasDeEstadística #Epidemiología #SaludPública #JohnSnow #HistoriaDeLaMedicina
+
+    ENGLISH: |
+        🔍🌍 Public Health Innovation: John Snow and the Cholera Epidemic 🌍🔍
+
+        In 1854, London was struck by a devastating cholera outbreak. John Snow, considered the father of modern epidemiology, undertook groundbreaking work that transformed our understanding of communicable diseases. Through meticulous data collection and disease pattern analysis, Snow pinpointed a water pump on Broad Street as the source of the outbreak. His decision to remove the handle of this pump is regarded as one of the earliest examples of epidemiological intervention. Snow's work not only helped to end the outbreak but also spurred improvements in drinking water systems, saving countless lives in the future.
+
+        This story not only underscores the importance of observation and statistical analysis in public health but also highlights the lasting impact one individual can have on global health.
+
+        #LittleTalesOfStatistics #Epidemiology #PublicHealth #JohnSnow #HistoryOfMedicine

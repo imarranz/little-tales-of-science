@@ -1,0 +1,95 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'La Voz de la Naturaleza'
+    'Subject': 'Félix Rodríguez de la Fuente: Una Vida Dedicada a la Naturaleza y la Divulgación'
+    'Keywords': 'Félix Rodríguez de la Fuente, naturaleza, conservación, divulgación, lobos, biodiversidad, documentales, fauna, flora, vida salvaje, naturalista, conservación ambiental, España, ecología, protección de la naturaleza'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Voice of Nature'
+    'Subject': 'Félix Rodríguez de la Fuente: A Life Dedicated to Nature and Its Dissemination'
+    'Keywords': 'Félix Rodríguez de la Fuente, nature, conservation, dissemination, wolves, biodiversity, documentaries, fauna, flora, wildlife, naturalist, environmental conservation, Spain, ecology, nature protection'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 34
+  - 85
+  - 34
+
+BOXCOLOR:
+  - 193
+  - 220
+  - 193
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Félix_Rodríguez_de_la_Fuente_01.webp"
+  - "Félix_Rodríguez_de_la_Fuente_02.webp"
+  - "Félix_Rodríguez_de_la_Fuente_03.webp"
+  - "Félix_Rodríguez_de_la_Fuente_04.webp"
+  - "Félix_Rodríguez_de_la_Fuente_05.webp"
+  - "Félix_Rodríguez_de_la_Fuente_06.webp"
+  - "Félix_Rodríguez_de_la_Fuente_07.webp"
+  - "Félix_Rodríguez_de_la_Fuente_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Desde pequeño, Félix encontraba su felicidad en la naturaleza, observando la vida salvaje."
+    - "Félix se convirtió en un apasionado naturalista, documentando cada rincón de la vida salvaje."
+    - "Los lobos capturaron el corazón de Félix, convirtiéndose en su símbolo de la naturaleza indomable."
+    - "A través de la televisión, Félix compartió su amor por la naturaleza con millones de personas."
+    - "Félix se convirtió en la voz de la conservación ambiental, inspirando a proteger el mundo natural."
+    - "Siempre en contacto con la naturaleza, Félix vivió cada momento con pasión y respeto por la vida salvaje."
+    - "Su legado sigue vivo, inspirando a nuevas generaciones a descubrir y proteger la naturaleza."
+    - "La naturaleza es nuestro hogar. Protejámosla con amor y respeto."
+
+  ENGLISH:
+    - "Since childhood, Félix found happiness in nature, observing the wildlife."
+    - "Félix became a passionate naturalist, documenting every corner of wildlife."
+    - "Wolves captured Félix's heart, becoming his symbol of untamed nature."
+    - "Through television, Félix shared his love for nature with millions of people."
+    - "Félix became the voice of environmental conservation, inspiring others to protect the natural world."
+    - "Always in touch with nature, Félix lived every moment with passion and respect for wildlife."
+    - "His legacy lives on, inspiring new generations to discover and protect nature."
+    - "Nature is our home. Let us protect it with love and respect."
+
+
+LINKEDIN:
+  SPANISH: |
+    🌳📽️ **Félix Rodríguez de la Fuente: Una Vida al Servicio de la Naturaleza** 📽️🌳
+
+    Félix Rodríguez de la Fuente fue más que un naturalista; fue un verdadero defensor y narrador de la vida salvaje. A través de sus documentales y charlas, llevó el mensaje de conservación y amor por la naturaleza a millones de hogares en España y más allá. Su pasión por la fauna y la flora, especialmente por los lobos, dejó una huella imborrable en la conciencia ambiental de generaciones.
+
+    Su legado sigue inspirando a quienes buscan proteger la biodiversidad y recordar la importancia de vivir en armonía con nuestro entorno natural.
+
+    #PequeñasHistoriasDeCiencia #LittleTalesOfScience #Conservación #Naturaleza #FélixRodríguezdelaFuente #DocumentalesDeNaturaleza #VidaSalvaje
+
+  ENGLISH: |
+    🌳📽️ **Félix Rodríguez de la Fuente: A Life Dedicated to Nature** 📽️🌳
+
+    Félix Rodríguez de la Fuente was more than a naturalist; he was a true defender and storyteller of wildlife. Through his documentaries and talks, he brought the message of conservation and love for nature to millions of homes in Spain and beyond. His passion for flora and fauna, especially wolves, left an indelible mark on the environmental awareness of generations.
+
+    His legacy continues to inspire those who seek to protect biodiversity and remember the importance of living in harmony with our natural surroundings.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #Conservation #Nature #FélixRodríguezdelaFuente #WildlifeDocumentaries #Wildlife
+
+
+
