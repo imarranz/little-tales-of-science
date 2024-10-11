@@ -1,18 +1,17 @@
 # CONFIG_.yaml
 
-
-
 METADATA:
   SPANISH:
     'Author': 'Ibon Martínez-Arranz (@imarranz)'
-    'Title': 'Luz sobre la Ciencia'
-    'Subject': 'Michael Faraday: El Arquitecto del Electromagnetismo y su Legado'
-    'Keywords': 'electricidad, magnetismo, experimentos, ciencia, Michael Faraday, inducción electromagnética, jaula de Faraday, campos magnéticos, historia de la ciencia, innovaciones científicas, legado científico, Royal Institution, descubrimientos científicos'
+    'Title': 'El Despertar de los Algoritmos'
+    'Subject': 'Ada Lovelace: La Pionera de la Computación y su Legado'
+    'Keywords': 'computación, algoritmos, matemáticas, ciencia, Ada Lovelace, máquina analítica, Charles Babbage, programación, historia de la ciencia, innovaciones científicas, legado científico, pionera tecnológica, descubrimientos científicos'
   ENGLISH:
     'Author': 'Ibon Martínez-Arranz (@imarranz)'
-    'Title': 'Light on Science'
-    'Subject': 'Michael Faraday: The Architect of Electromagnetism and His Legacy'
-    'Keywords': 'electricity, magnetism, experiments, science, Michael Faraday, electromagnetic induction, Faraday cage, magnetic fields, history of science, scientific innovations, scientific legacy, Royal Institution, scientific discoveries'
+    'Title': 'The Awakening of Algorithms'
+    'Subject': 'Ada Lovelace: The Pioneer of Computing and Her Legacy'
+    'Keywords': 'computing, algorithms, mathematics, science, Ada Lovelace, analytical engine, Charles Babbage, programming, history of science, scientific innovations, scientific legacy, technology pioneer, scientific discoveries'
+
 
 
 # NIMAGES
@@ -73,28 +72,57 @@ TEXTS:
     - "Ada Lovelace's influence transcends time; her pioneering vision of computing is recognized and celebrated in a modern context, highlighting her legacy as one of the first programmers in history."
 
 
+
 LINKEDIN:
     SPANISH: |
-        🔍 Michael Faraday: Un Pionero del Electromagnetismo 🔍
+        🔍 Ada Lovelace: Una Pionera de la Computación 🔍
 
-        🌟 Dentro de nuestra serie "Pequeñas Historias de Ciencia", hoy queremos presentar a Michael Faraday, una figura clave en la comprensión y el desarrollo del electromagnetismo. Su curiosidad insaciable y su enfoque práctico le permitieron descubrir los principios fundamentales de la electricidad y el magnetismo, que han moldeado innumerables avances tecnológicos hasta el día de hoy.
+        🌟 En nuestra serie "Pequeñas Historias de Ciencia", hoy destacamos a Ada Lovelace, una figura crucial en los albores de la computación. Su visión única y su habilidad matemática le permitieron conceptualizar el primer algoritmo destinado a ser procesado por una máquina, sentando las bases de la programación moderna.
 
-        👨‍🔬 Michael Faraday, quien comenzó su carrera como asistente de laboratorio, eventualmente se convirtió en un científico de renombre gracias a sus investigaciones revolucionarias. Inventó la jaula de Faraday, demostró la inducción electromagnética, y sentó las bases para la tecnología de motores eléctricos.
+        👩‍💻 Ada comenzó su carrera en matemáticas bajo la tutoría de Charles Babbage, con quien colaboró en el desarrollo de la Máquina Analítica. Su trabajo en esta área mostró una comprensión profunda de las potencialidades de la computación mucho antes de que existieran las máquinas modernas.
 
-        📚 Su compromiso con la educación pública y la divulgación científica, especialmente a través de sus conferencias en la Royal Institution, lo convierte en un modelo a seguir para todos los científicos y educadores. Michael Faraday creía firmemente que el conocimiento debería ser accesible para todos, una visión que compartimos apasionadamente.
+        📚 Su dedicación a la divulgación científica y su firme creencia en el potencial de la tecnología la convierten en una inspiración para todos los científicos y tecnólogos. Ada Lovelace es un ejemplo de cómo la visión y la creatividad pueden transformar nuestra comprensión del mundo.
 
-        💡 Un cómic por la vida y obra de Faraday, y descubre cómo sus descubrimientos siguen iluminando nuestro mundo moderno.
+        💡 Explora un cómic sobre la vida y obra de Lovelace, y descubre cómo sus ideas pioneras siguen influyendo en la tecnología actual.
 
-        #PequeñasHistoriasDeCiencia #MichaelFaraday #Electromagnetismo #Ciencia #Educación
+        #PequeñasHistoriasDeCiencia #AdaLovelace #Computación #Matemáticas #Tecnología
     ENGLISH: |
-        🔍 Michael Faraday: A Pioneer of Electromagnetism 🔍
+        🔍 Ada Lovelace: A Pioneer of Computing 🔍
 
-        🌟 In our "Little Tales of Science" series, we're excited to spotlight Michael Faraday, a pivotal figure in the understanding and development of electromagnetism. His relentless curiosity and hands-on approach led to foundational discoveries in electricity and magnetism, shaping countless technological advancements to this day.
+        🌟 In our "Little Tales of Science" series, we are proud to feature Ada Lovelace, a seminal figure in the dawn of computing. Her unique vision and mathematical prowess enabled her to conceptualize the first algorithm intended to be processed by a machine, laying the groundwork for modern programming.
 
-        👨‍🔬 Starting his career as a lab assistant, Faraday eventually rose to become a renowned scientist through his groundbreaking research. He invented the Faraday cage, demonstrated electromagnetic induction, and laid the groundwork for electric motor technology.
+        👩‍💻 Ada began her career in mathematics under the mentorship of Charles Babbage, with whom she collaborated on the development of the Analytical Engine. Her work demonstrated a profound understanding of computing's potential long before modern machines existed.
 
-        📚 His commitment to public education and scientific outreach, especially through his lectures at the Royal Institution, makes him a role model for scientists and educators alike. Faraday firmly believed that knowledge should be accessible to all, a vision we passionately share.
+        📚 Her commitment to scientific dissemination and her firm belief in technology's potential make her an inspiration to all scientists and technologists. Ada Lovelace exemplifies how vision and creativity can transform our understanding of the world.
 
-        💡 Join us on this fascinating journey through Faraday's life and work, and discover how his discoveries continue to light up our modern world.
+        💡 Dive into a comic about Lovelace's life and work, and discover how her pioneering ideas continue to influence today's technology.
 
-        #LittleTalesOfScience #MichaelFaraday #Electromagnetism #Science #Education
+        #LittleTalesOfScience #AdaLovelace #Computing #Mathematics #Technology
+
+
+LINKEDIN2:
+    SPANISH: |
+        🔍 Ada Lovelace: Una Pionera de la Computación 🔍
+
+        🌟 En nuestra serie "Pequeñas Historias de Ciencia", hoy, 8 de octubre, celebramos el Día de Ada Lovelace, destacando a esta figura crucial en los albores de la computación. Su visión única y su habilidad matemática le permitieron conceptualizar el primer algoritmo destinado a ser procesado por una máquina, sentando las bases de la programación moderna.
+
+        👩‍💻 Ada comenzó su carrera en matemáticas bajo la tutoría de Charles Babbage, con quien colaboró en el desarrollo de la Máquina Analítica. Su trabajo en esta área mostró una comprensión profunda de las potencialidades de la computación mucho antes de que existieran las máquinas modernas.
+
+        📚 Su dedicación a la divulgación científica y su firme creencia en el potencial de la tecnología la convierten en una inspiración para todos los científicos y tecnólogos. Ada Lovelace es un ejemplo de cómo la visión y la creatividad pueden transformar nuestra comprensión del mundo.
+
+        💡 En este Día de Ada Lovelace, explora un cómic sobre su vida y obra, y descubre cómo sus ideas pioneras siguen influyendo en la tecnología actual.
+
+        #PequeñasHistoriasDeCiencia #AdaLovelace #Computación #Matemáticas #Tecnología #DíaDeAdaLovelace
+    ENGLISH: |
+        🔍 Ada Lovelace: A Pioneer of Computing 🔍
+
+        🌟 In our "Little Tales of Science" series, today, October 8th, we celebrate Ada Lovelace Day by featuring Ada Lovelace, a seminal figure in the dawn of computing. Her unique vision and mathematical prowess enabled her to conceptualize the first algorithm intended to be processed by a machine, laying the groundwork for modern programming.
+
+        👩‍💻 Ada began her career in mathematics under the mentorship of Charles Babbage, with whom she collaborated on the development of the Analytical Engine. Her work demonstrated a profound understanding of computing's potential long before modern machines existed.
+
+        📚 Her commitment to scientific dissemination and her firm belief in technology's potential make her an inspiration to all scientists and technologists. Ada Lovelace exemplifies how vision and creativity can transform our understanding of the world.
+
+        💡 This Ada Lovelace Day, dive into a comic about her life and work, and discover how her pioneering ideas continue to influence today's technology.
+
+        #LittleTalesOfScience #AdaLovelace #Computing #Mathematics #Technology #AdaLovelaceDay
+
