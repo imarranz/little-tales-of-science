@@ -1,0 +1,96 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'El Padre de la Electricidad Moderna'
+    'Subject': 'Nikola Tesla: El Innovador de la Electricidad y su Impacto Duradero'
+    'Keywords': 'electricidad, Nikola Tesla, corriente alterna, bobina de Tesla, Wardenclyffe, innovación, ciencia, historia de la tecnología, legado tecnológico, descubrimientos eléctricos, pionero tecnológico, genio científico'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Father of Modern Electricity'
+    'Subject': 'Nikola Tesla: The Innovator of Electricity and His Lasting Impact'
+    'Keywords': 'electricity, Nikola Tesla, alternating current, Tesla coil, Wardenclyffe, innovation, science, history of technology, technological legacy, electrical discoveries, technology pioneer, scientific genius'
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 128
+  - 98
+  - 69
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Nikola_Tesla_01.webp"
+  - "Nikola_Tesla_02.webp"
+  - "Nikola_Tesla_03.webp"
+  - "Nikola_Tesla_04.webp"
+  - "Nikola_Tesla_05.webp"
+  - "Nikola_Tesla_06.webp"
+  - "Nikola_Tesla_07.webp"
+  - "Nikola_Tesla_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Joven Tesla, contemplando los cielos y soñando con el futuro."
+    - "Tesla y sus innovadoras experimentaciones con la electricidad inalámbrica."
+    - "Presentación de la bobina de Tesla, maravillando a la audiencia con su genialidad."
+    - "Tesla desarrolla el sistema de corriente alterna, que revolucionaría la tecnología eléctrica."
+    - "Tesla explora los usos médicos de la electricidad, ampliando los horizontes de la ciencia."
+    - "Tesla y la Torre Wardenclyffe: un sueño de energía inalámbrica para el mundo."
+    - "Un Tesla más viejo encuentra paz en la compañía de sus amadas palomas."
+    - "El legado de Tesla: un genio adelantado a su tiempo, aún en sus momentos finales."
+  ENGLISH:
+    - "Young Tesla, gazing at the skies, dreaming of the future."
+    - "Tesla and his groundbreaking experiments with wireless electricity."
+    - "Presenting the Tesla coil, astonishing the audience with his brilliance."
+    - "Tesla develops the alternating current system, revolutionizing electrical technology."
+    - "Tesla explores the medical applications of electricity, broadening the horizons of science."
+    - "Tesla and the Wardenclyffe Tower: a dream of wireless energy for the world."
+    - "An older Tesla finds peace in the company of his beloved pigeons."
+    - "Tesla's legacy: a genius ahead of his time, even in his final moments."
+
+LINKEDIN:
+    SPANISH: |
+        🔍 Nikola Tesla: El Padre de la Electricidad Moderna 🔍
+
+        🌟 En nuestra serie "Pequeñas Historias de Ciencia", hoy resaltamos a Nikola Tesla, una figura esencial en la historia de la electricidad y la ingeniería eléctrica. Su inventiva y visión para la transmisión de energía eléctrica sin cables pavimentaron el camino para las tecnologías modernas de energía y comunicación.
+
+        ⚡ Tesla comenzó su carrera en Europa, pero fue en América donde realizó sus contribuciones más significativas, como el desarrollo del sistema de corriente alterna y la bobina de Tesla, que transformaron completamente el uso y distribución de la electricidad.
+
+        📘 Su dedicación a la innovación y su creencia en el potencial de la energía gratuita para todos lo convierten en una inspiración para todos los científicos y tecnólogos. Nikola Tesla es un ejemplo de cómo la audacia y la creatividad pueden revolucionar la tecnología y la sociedad.
+
+        💡 Explora un cómic sobre la vida y obra de Tesla, y descubre cómo sus ideas visionarias siguen electrificando nuestro mundo hoy en día.
+
+        #PequeñasHistoriasDeCiencia #NikolaTesla #Electricidad #Innovación #Tecnología
+    ENGLISH: |
+        🔍 Nikola Tesla: The Father of Modern Electricity 🔍
+
+        🌟 In our "Little Tales of Science" series, we proudly feature Nikola Tesla, a pivotal figure in the history of electricity and electrical engineering. His ingenuity and vision for wireless power transmission laid the foundation for modern energy and communication technologies.
+
+        ⚡ Tesla began his career in Europe, but it was in America where he made his most significant contributions, such as developing the alternating current system and the Tesla coil, which completely transformed the usage and distribution of electricity.
+
+        📘 His commitment to innovation and his belief in the potential for free energy for all make him an inspiration to all scientists and technologists. Nikola Tesla exemplifies how boldness and creativity can revolutionize technology and society.
+
+        💡 Dive into a comic about Tesla's life and work, and discover how his visionary ideas continue to electrify our world today.
+
+        #LittleTalesOfScience #NikolaTesla #Electricity #Innovation #Technology
