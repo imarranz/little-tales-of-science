@@ -1,0 +1,127 @@
+# CONFIG_.yaml
+
+
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Pionera de la Computación Moderna'
+    'Subject': 'Grace Hopper: La Mujer que Enseñó a las Máquinas a Hablar'
+    'Keywords': 'Grace Hopper, COBOL, informática, computación, lenguaje de programación, compilador, debugging, historia de la tecnología'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'Pioneer of Modern Computing'
+    'Subject': 'Grace Hopper: The Woman Who Taught Machines to Speak'
+    'Keywords': 'Grace Hopper, COBOL, Computing'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 0
+  - 49
+  - 83
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Grace_Hopper_01.webp"
+  - "Grace_Hopper_02.webp"
+  - "Grace_Hopper_03.webp"
+  - "Grace_Hopper_04.webp"
+  - "Grace_Hopper_05.webp"
+  - "Grace_Hopper_06.webp"
+  - "Grace_Hopper_07.webp"
+  - "Grace_Hopper_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Grace Hopper, una visionaria en informática, comienza su carrera como matemática y se une a la Marina durante la Segunda Guerra Mundial."
+    - "Desarrollando software para la Mark I, Hopper lidera el camino en la programación de computadoras."
+    - "Hopper acuña el término 'debugging' tras encontrar una polilla atrapada en los circuitos de la Mark II."
+    - "Su trabajo en la creación del compilador revolucionó la informática, facilitando el uso de lenguajes de alto nivel."
+    - "En los años 60, Grace lidera el desarrollo de COBOL, un lenguaje que transforma el mundo empresarial."
+    - "Reconocida por su contribución, Hopper inspira a generaciones de programadores a romper barreras."
+    - "La Marina le concede el rango de Contralmirante, subrayando su impacto en la tecnología y la defensa."
+    - "Hasta sus últimos días, Grace Hopper promueve la innovación, dejando un legado imborrable en la computación."
+  ENGLISH:
+    - "Grace Hopper, a visionary in computing, starts her career as a mathematician and joins the Navy during World War II."
+    - "Developing software for the Mark I, Hopper paves the way in computer programming."
+    - "Hopper coins the term 'debugging' after finding a moth stuck in the Mark II circuits."
+    - "Her work on creating the compiler revolutionized computing, enabling the use of high-level languages."
+    - "In the 1960s, Grace leads the development of COBOL, a language that transforms the business world."
+    - "Recognized for her contributions, Hopper inspires generations of programmers to break barriers."
+    - "The Navy promotes her to Rear Admiral, highlighting her impact on technology and defense."
+    - "Until her final days, Grace Hopper advocates for innovation, leaving an indelible legacy in computing."
+
+
+LINKEDIN:
+  SPANISH: |
+    ✨💻 **Grace Hopper: Pionera de la Computación Moderna** 💻✨
+
+    Grace Hopper revolucionó el mundo de la informática con su ingenio y perseverancia. Desde su trabajo en la Mark I durante la Segunda Guerra Mundial hasta la creación de COBOL, Hopper rompió barreras, sentando las bases de la programación moderna.
+
+    Inventó el primer compilador, facilitando que las máquinas entendieran lenguajes más cercanos al humano. Su término "debugging", nacido de un incidente real, se convirtió en parte esencial del vocabulario tecnológico. Además, Hopper dedicó su vida a inspirar a nuevas generaciones, demostrando que la innovación no tiene límites.
+
+    Su historia es un recordatorio de cómo la pasión y la visión pueden cambiar el mundo, dejando un legado que sigue transformando nuestras vidas.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #GraceHopper #COBOL #HistoriaDeLaComputación #Innovación #Tecnología
+
+  ENGLISH: |
+    ✨💻 **Grace Hopper: Pioneer of Modern Computing** 💻✨
+
+    Grace Hopper revolutionized the world of computing with her brilliance and perseverance. From her work on the Mark I during World War II to the creation of COBOL, Hopper broke barriers, laying the foundation for modern programming.
+
+    She invented the first compiler, making it easier for machines to understand human-like languages. Her term "debugging," born from a real incident, became a cornerstone of technological vocabulary. Hopper also devoted her life to inspiring new generations, proving that innovation knows no limits.
+
+    Her story is a reminder of how passion and vision can change the world, leaving a legacy that continues to shape our lives.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #GraceHopper #COBOL #HistoryOfComputing #Innovation #Technology
+
+
+LINKEDIN:
+  SPANISH: |
+    ✨💻 **Grace Hopper: Pionera de la Computación Moderna** 💻✨
+
+    Hoy, 9 de diciembre, celebramos el **Día Mundial de la Informática** en honor al nacimiento de Grace Hopper, una de las mujeres pioneras en este fascinante campo. Hopper, nacida en 1906, fue fundamental en el desarrollo de la Harvard Mark II, una de las primeras calculadoras electromecánicas, y dejó un legado imborrable en la historia de la tecnología.
+
+    Grace Hopper revolucionó el mundo de la informática con su ingenio y perseverancia. Desde su trabajo en la Mark I durante la Segunda Guerra Mundial hasta la creación de COBOL, rompió barreras, sentando las bases de la programación moderna. Inventó el primer compilador, facilitando que las máquinas entendieran lenguajes más cercanos al humano. Además, su famoso término "debugging", nacido de un incidente real, se convirtió en parte esencial del vocabulario tecnológico.
+
+    Hopper dedicó su vida a inspirar a nuevas generaciones, demostrando que la innovación no tiene límites. Su historia es un recordatorio de cómo la pasión y la visión pueden cambiar el mundo, dejando un legado que sigue transformando nuestras vidas.
+
+    Hoy más que nunca, recordemos a esta gran pionera y celebremos el impacto de la informática en nuestras vidas. He preparado un pequeño cómic que recoge los logros más importantes conseguidos por Grace Hopper para rendir homenaje a su legado.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #GraceHopper #DíaMundialDeLaInformática #COBOL #HistoriaDeLaComputación #Innovación #Tecnología
+
+  ENGLISH: |
+    ✨💻 **Grace Hopper: Pioneer of Modern Computing** 💻✨
+
+    Today, December 9th, we celebrate **World Computer Day** in honor of Grace Hopper's birthday, one of the most remarkable pioneers in the history of computing. Born in 1906, Hopper played a key role in the development of the Harvard Mark II, one of the earliest electromechanical calculators, leaving an indelible legacy in technology.
+
+    Grace Hopper revolutionized computing with her brilliance and perseverance. From her work on the Mark I during World War II to the creation of COBOL, she broke barriers and laid the foundation for modern programming. She invented the first compiler, making it easier for machines to understand human-like languages. Her famous term "debugging," born from a real incident, became a cornerstone of technological vocabulary.
+
+    Hopper dedicated her life to inspiring new generations, proving that innovation knows no limits. Her story reminds us of how passion and vision can change the world, leaving a legacy that continues to shape our lives.
+
+    Today, let us honor this extraordinary pioneer and celebrate the profound impact of computing in our world. I’ve prepared a short comic highlighting Grace Hopper’s most important achievements to pay tribute to her legacy.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #GraceHopper #WorldComputerDay #COBOL #HistoryOfComputing #Innovation #Technology
+
+
