@@ -1,0 +1,94 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'El Viaje del HMS Beagle'
+    'Subject': 'Charles Darwin: La Travesía hacia la Teoría de la Evolución'
+    'Keywords': 'ciencia, biología, Charles Darwin, evolución, selección natural, HMS Beagle, teoría de la evolución, historia de la biología, Galápagos, naturalista, biodiversidad, historia de la ciencia'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Voyage of the HMS Beagle'
+    'Subject': 'Charles Darwin: The Journey to the Theory of Evolution'
+    'Keywords': 'science, biology, Charles Darwin, evolution, natural selection, HMS Beagle, theory of evolution, history of biology, Galápagos, naturalist, biodiversity, history of science'
+
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 139
+  - 69
+  - 19
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Charles_Darwin_01.webp"
+  - "Charles_Darwin_02.webp"
+  - "Charles_Darwin_03.webp"
+  - "Charles_Darwin_04.webp"
+  - "Charles_Darwin_05.webp"
+  - "Charles_Darwin_06.webp"
+  - "Charles_Darwin_07.webp"
+  - "Charles_Darwin_08.webp"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Charles Darwin, un joven naturalista, comienza su aventura en el HMS Beagle, embarcando hacia lo desconocido con una mezcla de emoción y nerviosismo."
+    - "En las remotas islas Galápagos, Darwin se encuentra con especies nunca antes vistas, anotando meticulosamente cada detalle en su libreta."
+    - "A bordo del Beagle, Darwin se sumerge en sus estudios, rodeado de mapas y especímenes, buscando conexiones entre sus observaciones."
+    - "Darwin presenta sus primeras teorías en reuniones con otros científicos, enfrentando escepticismo con argumentos firmes y datos convincentes."
+    - "En su estudio, rodeado de montones de notas y libros, Darwin compone 'El Origen de las Especies', sintetizando años de investigación."
+    - "Darwin ilustra su teoría revolucionaria con un árbol genealógico, mostrando cómo diferentes especies evolucionan a partir de un ancestro común."
+    - "La publicación de 'El Origen de las Especies' desata un torbellino de reacciones, desde aclamación académica hasta crítica ferviente."
+    - "En sus últimos años, Darwin reflexiona sobre su legado, satisfecho con la semilla de curiosidad y cambio que ha plantado en la ciencia."
+
+  ENGLISH:
+    - "Charles Darwin, a young naturalist, begins his adventure on the HMS Beagle, embarking towards the unknown with a mix of excitement and nervousness."
+    - "On the remote Galápagos Islands, Darwin encounters species never seen before, meticulously noting every detail in his notebook."
+    - "Aboard the Beagle, Darwin delves into his studies, surrounded by maps and specimens, seeking connections among his observations."
+    - "Darwin presents his initial theories at gatherings with other scientists, facing skepticism with strong arguments and convincing data."
+    - "In his study, surrounded by piles of notes and books, Darwin composes 'On the Origin of Species', synthesizing years of research."
+    - "Darwin illustrates his revolutionary theory with a genealogical tree, showing how different species evolve from a common ancestor."
+    - "The publication of 'On the Origin of Species' unleashes a whirlwind of reactions, from academic acclaim to fervent criticism."
+    - "In his final years, Darwin reflects on his legacy, content with the seed of curiosity and change he has planted in science."
+
+
+LINKEDIN:
+  SPANISH: |
+    ✨🌌 **Carl Sagan: Una Vida Dedicada al Universo y a la Divulgación Científica** 🌌✨
+
+    Carl Sagan fue más que un astrónomo; fue un explorador del cosmos y un apasionado comunicador de la ciencia. Desde joven, su amor por el universo lo llevó a realizar descubrimientos cruciales y a participar en misiones espaciales como la de la sonda Voyager.
+
+    Pero quizá su mayor contribución fue su capacidad de acercar la ciencia a millones de personas a través de la serie 'Cosmos' y sus reflexiones sobre la fragilidad de nuestro planeta, el "punto azul pálido". Su legado sigue inspirando a nuevas generaciones a mirar hacia las estrellas y cuestionarse sobre nuestro lugar en el universo.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #CarlSagan #Cosmos #DivulgaciónCientífica #Ciencia #Astronomía #ExploraciónEspacial
+
+  ENGLISH: |
+    ✨🌌 **Carl Sagan: A Life Dedicated to the Universe and Science Communication** 🌌✨
+
+    Carl Sagan was more than an astronomer; he was a cosmic explorer and a passionate science communicator. From a young age, his love for the universe led him to make critical discoveries and participate in space missions like the Voyager probe.
+
+    But perhaps his greatest contribution was his ability to bring science closer to millions through the series 'Cosmos' and his reflections on the fragility of our planet, the "pale blue dot." His legacy continues to inspire new generations to look up to the stars and question our place in the universe.
+
+    #LittleTalesOfScience #PequeñasHistoriasDeCiencia #CarlSagan #Cosmos #ScienceCommunication #Science #Astronomy #SpaceExploration
+
+
