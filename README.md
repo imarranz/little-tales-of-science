@@ -6,12 +6,12 @@
   <img src="https://repository-images.githubusercontent.com/868961814/cc300226-7f31-48df-9703-783a322e61b0" alt="Little Tales of Science">
 </p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tu-usuario/tu-repositorio?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/imarranz/little-tales-of-science?style=social)
+![GitHub forks](https://img.shields.io/github/forks/imarranz/little-tales-of-science?style=social)
 ![Comics](https://img.shields.io/badge/Category-Comics-blue)
 ![Divulgación Científica](https://img.shields.io/badge/Science-Communication-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/github/license/tu-usuario/tu-repositorio)
+![License](https://img.shields.io/github/license/imarranz/little-tales-of-science)
 ![Formato YAML](https://img.shields.io/badge/Config-YAML-yellow)
 ![Python](https://img.shields.io/badge/Built%20With-Python-blue)
 
