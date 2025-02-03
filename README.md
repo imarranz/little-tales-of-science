@@ -1,6 +1,21 @@
 
 # 🌟 Little Tales of Science (Pequeñas Historias de la Ciencia) 🌟
 
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/868961814/cc300226-7f31-48df-9703-783a322e61b0" alt="Little Tales of Science">
+</p>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tu-usuario/tu-repositorio?style=social)
+![Comics](https://img.shields.io/badge/Category-Comics-blue)
+![Divulgación Científica](https://img.shields.io/badge/Science-Communication-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/github/license/tu-usuario/tu-repositorio)
+![Formato YAML](https://img.shields.io/badge/Config-YAML-yellow)
+![Python](https://img.shields.io/badge/Built%20With-Python-blue)
+
+
 ## 📚 Descripción del Proyecto
 
 Bienvenidos a **Little Tales of Science** (Pequeñas Historias de la Ciencia), un proyecto que combina la magia de la **Inteligencia Artificial Generativa** y el poder de **Python** para crear mini cómics dedicados a la divulgación científica. Aquí exploramos historias y figuras clave de la ciencia, como Alan Turing, Ronald Fisher, Florence Nightingale y muchos otros, utilizando un formato visualmente atractivo: el **cómic**.
