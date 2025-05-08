@@ -1,0 +1,94 @@
+# CONFIG_.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'La Poesía de las Matemáticas'
+    'Subject': 'Maryam Mirzakhani: La Primera Mujer en Recibir la Medalla Fields y su Legado Infinito'
+    'Keywords': 'Maryam Mirzakhani, Medalla Fields, Matemáticas, Geometría Hiperbólica'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Poetry of Mathematics'
+    'Subject': 'Maryam Mirzakhani: The First Woman to Receive the Fields Medal and Her Endless Legacy'
+    'Keywords': 'Maryam Mirzakhani, Fields Medal, Mathematics, Hyperbolic Geometry'
+
+# NIMAGES
+# Definimos el número de imágenes con las que vamos a trabajar
+# Normalmente serán ocho.
+
+NIMAGES: 8
+
+# BOXCOLOR
+# Definimos el color de la caja de texto
+
+BORDERCOLOR:
+  - 168
+  - 134
+  - 97
+
+BOXCOLOR:
+  - 245
+  - 234
+  - 208
+
+# IMAGES
+# Definimos el nombre de las imágenes sobre las que vamos a procesar el texto
+
+IMAGES:
+  - "Maryam_Mirzakhani_01.png"
+  - "Maryam_Mirzakhani_02.png"
+  - "Maryam_Mirzakhani_03.png"
+  - "Maryam_Mirzakhani_04.png"
+  - "Maryam_Mirzakhani_05.png"
+  - "Maryam_Mirzakhani_06.png"
+  - "Maryam_Mirzakhani_07.png"
+  - "Maryam_Mirzakhani_08.png"
+
+# TEXTS
+# Definimos los textos, en castellano y en inglés, que irán en las figuras. Son dos listas con cadenas
+# de texto, tantas cadenas como imágenes queramos procesar. Una lista contiene los textos en castellano
+# y la otra lista contiene los textos en inglés
+
+TEXTS:
+  SPANISH:
+    - "Maryam creció en Teherán durante años difíciles, pero siempre encontraba un rincón para leer y soñar. De pequeña quería ser escritora... hasta que las matemáticas se cruzaron en su camino."
+    - "Una profesora le mostró la belleza de los problemas matemáticos, y Maryam quedó fascinada. Descubrió que las matemáticas no eran solo números, sino una forma de pensar sin límites."
+    - "A los 17 años ganó la Olimpiada Internacional de Matemáticas con puntuación perfecta. Al año siguiente, volvió a ganar. Irán y el mundo entero comenzaron a fijarse en ella."
+    - "En Harvard se sumergió en mundos matemáticos complejos: superficies que se retuercen, espacios imposibles, estructuras que solo existen en la imaginación… y en los teoremas."
+    - "Maryam revolucionó la geometría hiperbólica y la dinámica de superficies de Riemann. Sus artículos eran tan profundos que cambiaron campos enteros."
+    - "En 2014, Maryam recibió la Medalla Fields. Era la primera mujer en lograrlo, y la primera iraní. Sonrió tímidamente y dijo: 'Las matemáticas me recuerdan a escribir poesía'."
+    - "Maryam luchó contra el cáncer durante años, sin dejar de investigar ni enseñar. Falleció en 2017, con solo 40 años. Su luz sigue brillando."
+    - "Hoy, miles de niñas sueñan con ser matemáticas gracias a ella. Maryam demostró que la belleza de las ideas no entiende de fronteras."
+
+  ENGLISH:
+    - "Maryam grew up in Tehran during difficult times, but she always found a quiet corner to read and dream. As a child, she wanted to be a writer... until mathematics crossed her path."
+    - "A teacher revealed the beauty of mathematical problems, and Maryam was captivated. She discovered that math wasn't just about numbers—it was a way of thinking without limits."
+    - "At 17, she won the International Mathematical Olympiad with a perfect score. The following year, she won again. Iran—and the world—began to take notice."
+    - "At Harvard, she dove into complex mathematical worlds: twisting surfaces, impossible spaces, and structures that existed only in the imagination… and in theorems."
+    - "Maryam revolutionized hyperbolic geometry and the dynamics of Riemann surfaces. Her papers were so deep they reshaped entire fields."
+    - "In 2014, Maryam was awarded the Fields Medal. She was the first woman—and the first Iranian—to receive it. She smiled shyly and said: 'Math reminds me of writing poetry.'"
+    - "Maryam battled cancer for years, continuing to research and teach. She passed away in 2017, at just 40. Her light still shines."
+    - "Today, thousands of girls dream of becoming mathematicians thanks to her. Maryam showed that the beauty of ideas knows no boundaries."
+
+LINKEDIN:
+  SPANISH: |
+    🌟📐 La Poesía de las Matemáticas: El Legado de Maryam Mirzakhani 📐🌟
+
+    Maryam Mirzakhani no solo fue una matemática brillante: fue la primera mujer en recibir la Medalla Fields, el mayor reconocimiento en el mundo de las matemáticas. Su trabajo en geometría hiperbólica y superficies de Riemann abrió nuevas puertas en campos complejos que solo unos pocos comprenden… pero que nos acercan a entender el universo desde lo abstracto.
+
+    Desde Teherán hasta Harvard, su recorrido fue tan excepcional como inspirador. Luchó contra barreras visibles e invisibles, y aun así dejó una huella profunda. Maryam comparaba hacer matemáticas con escribir poesía: ambos caminos requieren imaginación, estructura y una mirada profunda a lo invisible.
+
+    Hoy, en el Día Internacional de las Mujeres Matemáticas, celebramos su vida y su legado. Porque las matemáticas también tienen heroínas.
+
+    #PequeñasHistoriasDeCiencia #MaryamMirzakhani #Matemáticas #MujeresEnCiencia #DíaDeLasMujeresMatemáticas
+
+  ENGLISH: |
+    🌟📐 The Poetry of Mathematics: Maryam Mirzakhani’s Legacy 📐🌟
+
+    Maryam Mirzakhani was not only a brilliant mathematician: she was the first woman to receive the Fields Medal, the highest honor in mathematics. Her work in hyperbolic geometry and Riemann surfaces opened new doors in fields so abstract that only a few truly grasp them… yet they bring us closer to understanding the universe.
+
+    From Tehran to Harvard, her journey was as exceptional as it was inspiring. She broke through visible and invisible barriers, leaving a deep and lasting mark. Maryam compared doing mathematics to writing poetry—both require imagination, structure, and a deep gaze into the unseen.
+
+    Today, on the International Day of Women in Mathematics, we celebrate her life and legacy. Because mathematics also has heroines.
+
+    #LittleTalesOfScience #MaryamMirzakhani #Mathematics #WomenInSTEM #WomenInMathematicsDay
