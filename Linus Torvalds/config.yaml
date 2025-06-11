@@ -1,0 +1,79 @@
+# CONFIG.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'El Nacimiento de Linux'
+    'Subject': 'Linus Torvalds: El día que cambió el software para siempre'
+    'Keywords': 'Linus Torvalds, Linux, Software Libre, Código Abierto, Historia de la Informática'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Birth of Linux'
+    'Subject': 'Linus Torvalds: The Day Software Changed Forever'
+    'Keywords': 'Linus Torvalds, Linux, Free Software, Open Source, History of Computing'
+
+NIMAGES: 8
+
+BORDERCOLOR:
+  - 120 #90
+  - 90 #60
+  - 60 #35
+
+BOXCOLOR:
+  - 230
+  - 230
+  - 230
+
+IMAGES:
+  - "Linus_Torvalds_01.png"
+  - "Linus_Torvalds_02.png"
+  - "Linus_Torvalds_03.png"
+  - "Linus_Torvalds_04.png"
+  - "Linus_Torvalds_05.png"
+  - "Linus_Torvalds_06.png"
+  - "Linus_Torvalds_07.png"
+  - "Linus_Torvalds_08.png"
+
+TEXTS:
+  SPANISH:
+    - "En Helsinki, un niño curioso se obsesiona con los números y los ordenadores. Su primera pasión: una calculadora programable que pertenecía a su abuelo."
+    - "A los 11 años, Linus empieza a programar en su VIC-20. Descubre que puede hablar con las máquinas… y hacer que obedezcan."
+    - "Durante sus estudios en la Universidad de Helsinki, prueba el sistema operativo Minix. Pero algo no le convence: no es realmente libre."
+    - "El 25 de agosto de 1991, Linus publica un mensaje legendario: 'Estoy haciendo un sistema operativo (gratuito)...'. El mundo nunca volverá a ser igual."
+    - "Así nació Linux. Un núcleo de sistema operativo, abierto a todos. Rápidamente, desarrolladores de todo el mundo se suman al proyecto."
+    - "Linux se convierte en símbolo del software libre: colaborativo, transparente, poderoso. Linus coordina el desarrollo con firmeza y visión."
+    - "Hoy, Linux está en todas partes: servidores, móviles, coches, routers, supercomputadoras... incluso en Marte. Todo empezó con aquel mensaje."
+    - "Linus Torvalds no solo creó un kernel. Encendió una revolución. Y el software libre ya no tiene marcha atrás."
+
+  ENGLISH:
+    - "In Helsinki, a curious child becomes obsessed with numbers and computers. His first passion: a programmable calculator that belonged to his grandfather."
+    - "At 11, Linus starts programming on his VIC-20. He discovers he can talk to machines… and make them obey."
+    - "While studying at the University of Helsinki, he tries the Minix operating system. But something feels wrong: it isn’t truly free."
+    - "On August 25, 1991, Linus posts a legendary message: 'I’m doing a (free) operating system...'. The world would never be the same."
+    - "Thus Linux was born. A kernel, open to all. Developers from around the world quickly joined the project."
+    - "Linux becomes a symbol of free software: collaborative, transparent, powerful. Linus leads with clarity and vision."
+    - "Today, Linux is everywhere: servers, smartphones, cars, routers, supercomputers… even on Mars. It all started with that one message."
+    - "Linus Torvalds didn’t just create a kernel. He sparked a revolution. And there’s no turning back for free software."
+
+LINKEDIN:
+  SPANISH: |
+    🐧 El día que cambió la historia del software libre 🐧
+
+    El 25 de agosto de 1991, un joven estudiante finlandés llamado Linus Torvalds publicó un mensaje que nadie sospechaba que cambiaría el mundo: *“Estoy haciendo un sistema operativo (gratuito)...”*. Así nacía Linux.
+
+    Lo que empezó como un proyecto personal se convirtió en uno de los mayores logros colectivos de la historia de la tecnología. Linux no solo revolucionó los sistemas operativos: dio forma al movimiento del software libre y al espíritu de colaboración global.
+
+    Hoy, Linux está presente en servidores, móviles, routers, supercomputadoras e incluso en Marte. Y todo empezó con un post y una idea poderosa: compartir.
+
+    #LinusTorvalds #Linux #SoftwareLibre #OpenSource #PequeñasHistoriasDeCiencia
+
+  ENGLISH: |
+    🐧 The Day Free Software Changed Forever 🐧
+
+    On August 25, 1991, a young Finnish student named Linus Torvalds posted a message no one knew would change the world: *“I’m doing a (free) operating system...”*. Linux was born.
+
+    What began as a personal project became one of the greatest collective achievements in tech history. Linux didn’t just change operating systems—it shaped the free software movement and the spirit of global collaboration.
+
+    Today, Linux runs servers, phones, routers, supercomputers—even missions to Mars. And it all started with one post and a powerful idea: to share.
+
+    #LinusTorvalds #Linux #FreeSoftware #OpenSource #LittleTalesOfScience

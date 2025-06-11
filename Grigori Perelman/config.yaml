@@ -1,0 +1,80 @@
+# CONFIG.yaml
+
+METADATA:
+  SPANISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'El Genio que Rechazó el Mundo'
+    'Subject': 'Grigori Perelman: La historia del hombre que resolvió la Conjetura de Poincaré y desapareció'
+    'Keywords': 'Grigori Perelman, Conjetura de Poincaré, Matemáticas, Medalla Fields, Clay Institute'
+  ENGLISH:
+    'Author': 'Ibon Martínez-Arranz (@imarranz)'
+    'Title': 'The Genius Who Walked Away'
+    'Subject': 'Grigori Perelman: The story of the man who solved the Poincaré Conjecture and vanished'
+    'Keywords': 'Grigori Perelman, Poincaré Conjecture, Mathematics, Fields Medal, Clay Institute'
+
+NIMAGES: 8
+
+BORDERCOLOR:
+  - 58
+  - 58
+  - 58
+
+BOXCOLOR:
+  - 230
+  - 230
+  - 230
+
+IMAGES:
+  - "Grigori_Perelman_01.png"
+  - "Grigori_Perelman_02.png"
+  - "Grigori_Perelman_03.png"
+  - "Grigori_Perelman_04.png"
+  - "Grigori_Perelman_05.png"
+  - "Grigori_Perelman_06.png"
+  - "Grigori_Perelman_07.png"
+  - "Grigori_Perelman_08.png"
+
+TEXTS:
+  SPANISH:
+    - "San Petersburgo, 13 de junio de 1966. Nace un niño que resolvería uno de los mayores misterios de las matemáticas."
+    - "Desde pequeño, Grisha destaca por su talento prodigioso. Pronto, sus profesores saben que no es un alumno común."
+    - "En los 80, representa a la URSS en la Olimpiada Internacional de Matemáticas. Gana la medalla de oro con puntuación perfecta."
+    - "Su obsesión: la Conjetura de Poincaré, un enigma sin resolver durante un siglo. Perelman se aísla del mundo para enfrentarlo."
+    - "En 2002 publica en internet una serie de artículos donde demuestra la conjetura… sin enviarlos a ninguna revista."
+    - "La comunidad matemática queda atónita. Tras años de verificación, se reconoce que su prueba es correcta."
+    - "Perelman rechaza todos los premios: la Medalla Fields, el millón del Clay Institute… y desaparece del ojo público."
+    - "\"No busco la fama ni el dinero. Tengo lo que quiero: entender la verdad matemática.\""
+
+  ENGLISH:
+    - "Saint Petersburg, June 13, 1966. A child is born who will one day solve one of the greatest mysteries in mathematics."
+    - "From an early age, Grisha shows prodigious talent. His teachers quickly realize he is no ordinary student."
+    - "In the 80s, he represents the USSR in the International Math Olympiad. He wins gold with a perfect score."
+    - "His obsession: the Poincaré Conjecture, an unsolved puzzle for a century. Perelman isolates himself to face it."
+    - "In 2002, he posts a series of papers online proving the conjecture… without submitting them to any journal."
+    - "The math community is stunned. After years of verification, his proof is confirmed."
+    - "Perelman declines every prize: the Fields Medal, the Clay Institute’s million dollars… and vanishes from the public eye."
+    - "\"I’m not seeking fame or money. I have what I want: to understand the truth of mathematics.\""
+
+LINKEDIN:
+  SPANISH: |
+    ➗ El genio que rechazó la fama y el millón de dólares ➗
+
+    Grigori Perelman resolvió uno de los mayores problemas abiertos de las matemáticas: la Conjetura de Poincaré. Lo hizo en silencio, desde su apartamento en San Petersburgo, sin publicarlo en revistas, sin pedir reconocimiento.
+
+    Rechazó la Medalla Fields, el millón del Clay Institute y cualquier entrevista. Solo quería entender la verdad matemática. Y lo logró.
+
+    Hoy, celebramos su cumpleaños recordando su genialidad… y su elección de desaparecer.
+
+    #GrigoriPerelman #Matemáticas #ConjeturaDePoincaré #LittleTalesOfScience
+
+  ENGLISH: |
+    ➗ The genius who walked away from fame and a million dollars ➗
+
+    Grigori Perelman solved one of the greatest open problems in mathematics: the Poincaré Conjecture. He did it quietly, from his apartment in Saint Petersburg, without publishing in journals or asking for recognition.
+
+    He turned down the Fields Medal, the Clay Institute’s million dollars, and all interviews. He only wanted to understand the truth of mathematics. And he did.
+
+    Today we celebrate his birthday by remembering his brilliance… and his choice to disappear.
+
+    #GrigoriPerelman #Mathematics #PoincareConjecture #LittleTalesOfScience
+
